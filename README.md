@@ -1,4 +1,4 @@
-# hactober [dev.to pin] Bruteforce
+# Hacktober [dev.to pin] Bruteforce
 
 This was thrown together in 10 minutes to test bruteforcing a field on Hacktober's website, so it's definitely not a full demo of the problem but it's as far as I am willing to go. (someone help me reduce that n^6 complexity though 😭)
 
